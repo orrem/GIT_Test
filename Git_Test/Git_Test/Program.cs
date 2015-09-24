@@ -12,6 +12,7 @@ namespace Git_Test
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Emelie");
+            Car danielsCar = new Car();
         }
     }
 }
